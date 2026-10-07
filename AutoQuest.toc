@@ -2,5 +2,5 @@
 ## Title: AutoQuest
 ## Notes: Auto accept and turn-in quests for 1.12.1 (Vanilla / VanillaPlus)
 ## Author: Rodina
-## Version: 1.1.0
+## Version: 1.1.1
 AutoQuest.lua
