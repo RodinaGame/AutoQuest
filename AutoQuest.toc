@@ -1,5 +1,6 @@
 ## Interface: 11200
 ## Title: AutoQuest
-## Notes: Auto accept and turn-in quests for 1.12.1
+## Notes: Auto accept and turn-in quests for 1.12.1 (Vanilla / VanillaPlus)
 ## Author: Rodina
+## Version: 1.1.0
 AutoQuest.lua
